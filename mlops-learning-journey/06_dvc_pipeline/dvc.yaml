@@ -1,0 +1,7 @@
+stages:
+  prepare:
+    cmd: echo "Prepare data"
+    deps:
+      - data/
+    outs:
+      - data/processed
