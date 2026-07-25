@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Introduction to MLOps
 
 ## Overview
@@ -99,3 +100,8 @@ Updating and retraining models with new data to improve performance over time.
 - Docker
 - FastAPI Deployment
 - CI/CD Pipelines
+=======
+# 00 Introduction to MLOps
+
+This section introduces the core concepts of MLOps, including why it matters, the lifecycle of ML systems, and the role of DevOps in machine learning workflows.
+>>>>>>> 4d7846f (Add MLOps learning journey)
