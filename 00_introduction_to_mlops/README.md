@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Introduction to MLOps
 
 ## Overview
